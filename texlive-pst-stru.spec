@@ -6,7 +6,7 @@
 # catalog-version 0.11
 Name:		texlive-pst-stru
 Version:	0.11
-Release:	7
+Release:	8
 Summary:	Civil engineering diagrams, using pstricks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-stru
