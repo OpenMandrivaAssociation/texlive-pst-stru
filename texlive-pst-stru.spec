@@ -1,6 +1,6 @@
 Name:		texlive-pst-stru
 Version:	0.13
-Release:	1
+Release:	2
 Summary:	Civil engineering diagrams, using pstricks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-stru
