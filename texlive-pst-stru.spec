@@ -3,7 +3,7 @@ Version:	38613
 Release:	2
 Summary:	Civil engineering diagrams, using pstricks
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-stru
+URL:		https://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-stru
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-stru.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-stru.doc.r%{version}.tar.xz
